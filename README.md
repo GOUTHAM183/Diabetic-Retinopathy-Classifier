@@ -29,8 +29,6 @@ diabetic-retinopathy-classifier/
 │   └── test/
 │       ├── DR/
 │       └── No_DR/
-├── models/
-│   └── diabetic_retinopathy_classifier.h5
 ├── notebooks/
 │   └── Diabetic_Retinopathy_Classifier.ipynb
 └── README.md
